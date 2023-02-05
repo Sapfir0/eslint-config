@@ -149,7 +149,6 @@ module.exports = {
       'no-array-constructor',
       'no-empty-function',
       'no-extra-parens',
-      'no-magic-numbers',
       'no-unused-expressions',
       'no-unused-vars',
       'no-use-before-define',

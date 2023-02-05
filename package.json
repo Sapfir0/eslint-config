@@ -1,6 +1,6 @@
 {
   "name": "@sapfir0/eslint-config",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
