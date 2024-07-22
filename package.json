@@ -1,6 +1,6 @@
 {
   "name": "@sapfir0/eslint-config",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "main": "index.js",
   "devDependencies": {},
   "scripts": {
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/Sapfir0/eslint-config#readme",
   "description": "",
   "dependencies": {
-    "eslint-plugin-jsdoc": "^39.6.2"
+    "eslint-plugin-jsdoc": "^48.8.3"
   }
 }
